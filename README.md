@@ -3,5 +3,5 @@ Group 6
 Members: Matthew Bui, Wesley Dam, Darren Nguyen
 
 Program Functionality:
-D key - Switch from day and night
-L key - Turn the field lights on and off
+- D key - Switch from day and night
+- L key - Turn the field lights on and off
